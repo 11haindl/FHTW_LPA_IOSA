@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  MyDay
+
+  Created by Stefanie on 31.12.23.
+  
+*/
+
+"overview_title" = "Eintragsübersicht";
+"edit_button" = "Bearbeiten";
+"done_button" = "Fertig";
+"new_entry_view_title" = "Neuer Eintrag";
+"entry_name_label" = "Titel";
+"entry_content_label" = "Inhalt";
+"photo_selection_button" = "Fotoauswahl";
+"start_recording_label" = "Aufnahme starten";
+"stop_recording_label" = "Aufnahme beenden";
+"add_button" = "Hinzufügen";
+"play_label" = "Aufnahme abspielen";
+"notification_title" = "Erinnerung";
+"notification_body" = "Schreibe einen neuen Eintrag bei MyDay";

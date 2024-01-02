@@ -1,0 +1,21 @@
+/* 
+  Localizable.strings
+  MyDay
+
+  Created by Stefanie on 31.12.23.
+  
+*/
+
+"overview_title" = "Обзор записей";
+"edit_button" = "Правит";
+"done_button" = "Готово";
+"new_entry_view_title" = "Новая Запись";
+"entry_name_label" = "Название";
+"entry_content_label" = "Содержание";
+"photo_selection_button" = "Выбор Фото";
+"start_recording_label" = "Начать запись";
+"stop_recording_label" = "Завершить запись";
+"add_button" = "Добавить";
+"play_label" = "Воспроизвести запись";
+"notification_title" = "Напоминание";
+"notification_body" = "Напиши новую запись в MyDay";
