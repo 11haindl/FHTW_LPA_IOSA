@@ -44,6 +44,7 @@ struct ShowEntryView: View {
         }
         .padding()
         .onAppear{
+            getImage()
             checkForAudioFile()
         }
         Spacer()

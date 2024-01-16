@@ -21,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DA578FC12B569C4100FD3BC0 /* App_Description.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = App_Description.md; sourceTree = "<group>"; };
 		DA7669612B41940F0098E354 /* NotificationDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationDelegate.swift; sourceTree = "<group>"; };
 		DA7669632B4355780098E354 /* AudioModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioModel.swift; sourceTree = "<group>"; };
 		DA7669672B4454040098E354 /* ru */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = ru; path = ru.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -53,6 +54,7 @@
 		DAF07EB82B398199004DD577 = {
 			isa = PBXGroup;
 			children = (
+				DA578FC12B569C4100FD3BC0 /* App_Description.md */,
 				DA7669632B4355780098E354 /* AudioModel.swift */,
 				DAF07ED72B3982F2004DD577 /* notes.md */,
 				DAF07EC32B398199004DD577 /* MyDay */,
