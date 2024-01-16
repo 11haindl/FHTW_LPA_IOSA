@@ -322,6 +322,8 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MyDay/Info.plist;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "The App needs access to the microphone if you want to make voice recording for an entry";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "The App needs access to the photo library if you want to add a picture to an entry";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -351,6 +353,8 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MyDay/Info.plist;
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "The App needs access to the microphone if you want to make voice recording for an entry";
+				INFOPLIST_KEY_NSPhotoLibraryUsageDescription = "The App needs access to the photo library if you want to add a picture to an entry";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
